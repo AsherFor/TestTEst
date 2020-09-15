@@ -50,4 +50,3 @@ def binary_hex():
 binary_hex()
 
 
-CoolCoool
